@@ -6,4 +6,5 @@ category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+- E-mail : rhwogus777@gmail.com
+- velog : https://velog.io/@kozae00
